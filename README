@@ -1,0 +1,79 @@
+NICHOLAS ICE CREAM
+Proyecto Final - Desarrollo Web
+
+DESCRIPCIÓN DEL PROYECTO
+Nicholas Ice Cream es un sitio web desarrollado como concepto de una
+tienda de helados en línea. El proyecto presenta una identidad visual
+colorida, juvenil, divertida y moderna, enfocada en ofrecer una
+experiencia agradable al usuario.
+
+TECNOLOGÍAS UTILIZADAS
+- HTML5
+- CSS3
+- Bootstrap 5.3.3
+- JavaScript
+- Visual Studio
+- GitHub
+
+ESTRUCTURA DEL PROYECTO
+El proyecto está compuesto por una página principal y diferentes
+páginas internas:
+
+- Index.html
+- nosotros.html
+- sabores.html
+- conos.html
+- vasitos.html
+- sundaes.html
+- Batidas.html
+- toppings.html
+- especiales.html
+- galeria.html
+- reservaciones.html
+- contacto.html
+
+FUNCIONALIDADES
+El sitio web incluye:
+
+- Menú de navegación entre las diferentes páginas.
+- Diseño responsivo para computadoras, tabletas y celulares.
+- Botones con efectos hover.
+- Tarjetas de productos con efectos interactivos.
+- Carrusel de imágenes en la página principal.
+- Formulario de contacto con validación mediante JavaScript.
+- Formulario de reservaciones con validación mediante JavaScript.
+- Diferentes opciones de productos y sabores.
+- Diseño visual personalizado para Nicholas Ice Cream.
+
+BOOTSTRAP
+Se utilizó Bootstrap 5.3.3 para apoyar el diseño responsivo,
+la organización de columnas y los estilos de formularios y botones.
+
+JAVASCRIPT
+JavaScript fue utilizado para crear interactividad en el sitio web.
+Entre las funcionalidades implementadas se encuentran el carrusel
+de imágenes y la validación de los formularios de contacto y
+reservaciones.
+
+IMÁGENES Y RECURSOS
+Las imágenes utilizadas en el proyecto fueron creadas o seleccionadas
+para representar los productos de Nicholas Ice Cream, incluyendo
+conos, vasitos, batidas, sundaes y diferentes sabores de helado.
+
+Las imágenes se encuentran organizadas dentro de la carpeta:
+
+Imagen/
+
+COMENTARIOS EN EL CÓDIGO
+Se utilizaron comentarios dentro de los archivos HTML, CSS y
+JavaScript para identificar y organizar las diferentes secciones
+del proyecto.
+
+GITHUB
+Repositorio del proyecto:
+https://github.com/Nashluc/Nicholas_Ice_Cream.git
+
+
+NOTA
+Este proyecto fue desarrollado como parte de una evaluación académica
+de desarrollo web, aplicando HTML5, CSS3, Bootstrap y JavaScript.
